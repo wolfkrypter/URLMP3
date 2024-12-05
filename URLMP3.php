@@ -60,8 +60,7 @@ foreach ($collection->getVideos() as $EVC) {
       echo "\n\n\e[0;33m[Errores/estadísticos]:\e";
       echo "\n\n\e[0;32m• Url no extraible por audilocked urlstream.\n• Bugscripts.\n• Url ingresada no valida.\n• Directorio invalido.\e";
           
-       /**
-        echo "\e[0;33m[Error/diagnóstico]\e | \e[0;32m{$EVC->getError()}.\e\n\n";  **/
+       
         
      echo "\n\n\033[33mRecomendación: \033[0m";
         echo "\n\n\e[0;32m• Se recomienda reintentar con el mismo 'ID' de la urlstream ingresada nuevamente preferiblemente de una plataforma de streaming diferente.\n• Verifique la url y constate que no contenga errores involutarios la url obtenida del sitio de URLSTREAMING del cual intenta extraer y recodificar en formato Mp3 mediante URLMP3 através del proceso de extracción y recodificación e almacenamiento en un formato legible de audio en formato Mp3 mediante URLMP3.\n• Verifique la dirección del directorio ingresado y constate mediante el comando 'pwd' desde termux para verificar si posiblemente es el error.\e\n\n";
