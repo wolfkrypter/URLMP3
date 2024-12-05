@@ -15,14 +15,15 @@ echo "\e[0;33mInf/URLMP3:\e\n\n\e[0;32m• Es un extractor y recodificador de ur
 echo "\e[0;33mEjecución en Termux:\e";
 echo "\n\n\033[32m~ $ yes | termux-setup-storage\n\033m";
 echo "~ $ yes | pkg update && pkg upgrade";
-echo "\n~ $ pkg install php";
-echo "\n~ $ pkg install git";
+echo "\n~ $ yes | pkg install php";
+echo "\n~ $ yes | pkg install ffmpeg";
+echo "\n~ $ yes | pkg install git";
 echo "\n~ $ mkdir storage/download/URLMP3";
 echo "\n~ $ cd storage/downloads/URLMP3";
 echo "\n~/.../downloads/URLMP3 $ composer require norkunas/youtube-dl-php:dev-master";
 echo "\n~/.../downloads/URLMP3 $ git clone https://github.com/wolfkrypter/URLMP3.git";
 echo "\n~/.../downloads/URLMP3 $ php -f URLMP3.php <==> Comando de ejecución de URLMP3";
-echo "\n\n\e[0;33mEjemplo/ruta de almacenamiento:\e\n\n\e[0;32m~ $ yes | termux-setup-storage\n~ $ cd storage/downloads/URLMP3\n~ $ pwd\n/data/data/com.termux/files/home/storage/downloads/URLMP3\e\n";
+echo "\n\n\e[0;33mEjemplo/Ruta de almacenamiento:\e\n\n\e[0;32m~ $ yes | termux-setup-storage\n~ $ cd storage/downloads/URLMP3\n~ $ pwd\n/data/data/com.termux/files/home/storage/downloads/URLMP3\e\n";
 echo "\n\e[0;33m-->Ruta de almacenamiento:\e";
 echo "\e[0;32m /data/data/com.termux/files/home/storage/downloads/URLMP3\e\n";
 echo "\n\n\e[0;33m##################################\e";
