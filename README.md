@@ -26,7 +26,7 @@ Ejemplo/ruta de almacenamiento:
 <p>~ $ yes | termux-setup-storage</p>
 <p>~ $ cd storage/downloads/URLMP3</p>
 <p>~ $ pwd</p>
-<p>/data/data/com.termux/files/home/storage/downloads/URLMP3</p>
+<p>/data/data/com.termux/files/home/storage/downloads/URLMP3</p></br>
 
 <p>-->Ruta de almacenamiento: /data/data/com.termux/files/home/storage/downloads/URLMP3</p>
 
