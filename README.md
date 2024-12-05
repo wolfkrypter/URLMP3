@@ -34,7 +34,7 @@ Ejemplo/ruta de almacenamiento:
 <center><p>'El Rey Jesucristo viene pronto'</p></center>
 <center><p>Mateo 24:25, Author: Belial;</p>
 
-</br><p>==>Ruta de almacenamiento:</p>
+<p>==>Ruta de almacenamiento:</p>
 
 
 <p>Ejemplo/URL:</p>
