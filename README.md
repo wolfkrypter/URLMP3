@@ -23,10 +23,10 @@ URLMP3  es un extractor y recodificador de urlstream a archivos multimedia legib
 
 Ejemplo/ruta de almacenamiento:
 
-~ $ yes | termux-setup-storage
-~ $ cd storage/downloads/URLMP3
-~ $ pwd
-/data/data/com.termux/files/home/storage/downloads/URLMP3
+<p>~ $ yes | termux-setup-storage</p>
+<p>~ $ cd storage/downloads/URLMP3</p>
+<p>~ $ pwd</p>
+<p>/data/data/com.termux/files/home/storage/downloads/URLMP3</p>
 
 
 ##################################
