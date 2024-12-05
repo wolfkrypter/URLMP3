@@ -29,14 +29,12 @@ Ejemplo/ruta de almacenamiento:
 <p>/data/data/com.termux/files/home/storage/downloads/URLMP3</p>
 
 
-<p>##################################</p>
-<p># Frase de gracia, devoción y fe #</p>
-<p>#'El Rey Jesucristo viene pronto'#</p>
-<p>#   Mateo 24:25, Author: 魔鬼;   #</p>
-<p>##################################</p>
+<h3>Frase de gracia, devoción y fe:</h3>
+<p>'El Rey Jesucristo viene pronto'</p>
+<p>Mateo 24:25, Author: 魔鬼;</p>
 
 
--->Ruta de almacenamiento: /data/data/com.termux/files/home/storage/downloads/URLMP3
+<p>-->Ruta de almacenamiento: /data/data/com.termux/files/home/storage/downloads/URLMP3</p>
 
 ==>Ruta de almacenaje:
 
