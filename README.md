@@ -36,13 +36,11 @@ Ejemplo/ruta de almacenamiento:
 
 <p>-->Ruta de almacenamiento: /data/data/com.termux/files/home/storage/downloads/URLMP3</p>
 
-==>Ruta de almacenaje:
+<p>==>Ruta de almacenaje:</p>
 
 
-Example:
+<p>Ejemplo/URL:</p>
 
+<p>-->URL: https://m.youtube.com/watch?v=YqeW9_5kURI</p>
 
-
--->URL: https://m.youtube.com/watch?v=YqeW9_5kURI
-
-==>URL:
+<p>==>URL:</p>
