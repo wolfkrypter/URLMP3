@@ -21,7 +21,7 @@ URLMP3  es un extractor y recodificador de urlstream a archivos multimedia legib
 <p>~/.../downloads/URLMP3 $ git clone https://github.com/wolfkrypter/URLMP3.git</p>
 <p>~/.../downloads/URLMP3 $ php -f URLMP3.php <==> Comando de ejecución de URLMP3</p>
 
-Ejemplo/ruta de almacenamiento:
+Ejemplo/Ruta de almacenamiento:
 
 <p>~ $ yes | termux-setup-storage</p>
 <p>~ $ cd storage/downloads/URLMP3</p>
