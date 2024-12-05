@@ -11,15 +11,15 @@ URLMP3  es un extractor y recodificador de urlstream a archivos multimedia legib
 
 <h4>Ejecución en Termux:</h4>
 
-~ $ yes | termux-setup-storage
-~ $ yes | pkg update && pkg upgrade
-~ $ pkg install php
-~ $ pkg install git
-~ $ mkdir storage/download/URLMP3
-~ $ cd storage/downloads/URLMP3
-~/.../downloads/URLMP3 $ composer require norkunas/youtube-dl-php:dev-master
-~/.../downloads/URLMP3 $ git clone https://github.com/wolfkrypter/URLMP3.git
-~/.../downloads/URLMP3 $ php -f URLMP3.php <==> Comando de ejecución de URLMP3
+<p>~ $ yes | termux-setup-storage</p>
+<p>~ $ yes | pkg update && pkg upgrade</p>
+<p>~ $ pkg install php</p>
+<p>~ $ pkg install git</p>
+<p>~ $ mkdir storage/download/URLMP3</p>
+</p>~ $ cd storage/downloads/URLMP3</p>
+<p>~/.../downloads/URLMP3 $ composer require norkunas/youtube-dl-php:dev-master</p>
+<p>~/.../downloads/URLMP3 $ git clone https://github.com/wolfkrypter/URLMP3.git</p>
+<p>~/.../downloads/URLMP3 $ php -f URLMP3.php <==> Comando de ejecución de URLMP3</p>
 
 Ejemplo/ruta de almacenamiento:
 
