@@ -43,4 +43,6 @@ Ejemplo/ruta de almacenamiento:
 
 <p>-->URL: https://m.youtube.com/watch?v=YqeW9_5kURI</p>
 
-<p>==>URL:</p>
+<p>==>URL:</p></br>
+
+<img src="https://i.imgur.com/dVZOjlQ.jpeg" alt="URLMP3">
