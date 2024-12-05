@@ -23,12 +23,13 @@ echo "\n~/.../downloads/URLMP3 $ composer require norkunas/youtube-dl-php:dev-ma
 echo "\n~/.../downloads/URLMP3 $ git clone https://github.com/wolfkrypter/URLMP3.git";
 echo "\n~/.../downloads/URLMP3 $ php -f URLMP3.php <==> Comando de ejecución de URLMP3";
 echo "\n\n\e[0;33mEjemplo/ruta de almacenamiento:\e\n\n\e[0;32m~ $ yes | termux-setup-storage\n~ $ cd storage/downloads/URLMP3\n~ $ pwd\n/data/data/com.termux/files/home/storage/downloads/URLMP3\e\n";
+echo "\n\e[0;33m-->Ruta de almacenamiento:\e";
+echo "\e[0;32m /data/data/com.termux/files/home/storage/downloads/URLMP3\e\n";
 echo "\n\n\e[0;33m##################################\e";
 echo "\n\e[0;33m# Frase de gracia, devoción y fe \e\e[0;33m#\e\n\e[0;34m#'El Rey Jesucristo viene pronto'#\n\e[0;31m#  Mateo 24:25, Author: Belial;  #\e";
 echo "\n\e[0;31m##################################\e\n";
-echo "\n\n\e[0;33m-->Ruta de almacenamiento:\e";
-echo "\e[0;32m /data/data/com.termux/files/home/storage/downloads/URLMP3\e";
-echo "\n\n\033[34m==>Ruta de almacenamiento:\033[0m";
+
+echo "\n\n\n\033[34m==>Ruta de almacenamiento:\033[0m";
 echo "\033[32m \033m";
 fscanf(STDIN, "%s", $d);
 echo "\n\n\e[0;33mExample:\e\n\n";
