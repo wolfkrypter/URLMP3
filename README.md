@@ -29,11 +29,11 @@ Ejemplo/ruta de almacenamiento:
 <p>/data/data/com.termux/files/home/storage/downloads/URLMP3</p>
 
 
-##################################
-# Frase de gracia, devoción y fe #
-#'El Rey Jesucristo viene pronto'#
-#   Mateo 24:25, Author: 魔鬼;   #
-##################################
+<p>##################################</p>
+<p># Frase de gracia, devoción y fe #</p>
+<p>#'El Rey Jesucristo viene pronto'#</p>
+<p>#   Mateo 24:25, Author: 魔鬼;   #</p>
+<p>##################################</p>
 
 
 -->Ruta de almacenamiento: /data/data/com.termux/files/home/storage/downloads/URLMP3
