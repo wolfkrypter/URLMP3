@@ -9,7 +9,7 @@ URLMP3  es un extractor y recodificador de urlstream a archivos multimedia legib
 • Es un extractor y recodificador de urlstream a archivos multimedia almacenables.                                                  
 • URLMP3 recodifica urls de plataformas de streaming en archivos de audio en formato 'MP3'.
 
-Ejecución:
+Ejecución en Termux:
 
 ~ $ yes | termux-setup-storage
 ~ $ yes | pkg update && pkg upgrade
