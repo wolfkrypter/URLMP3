@@ -13,8 +13,9 @@ URLMP3  es un extractor y recodificador de urlstream a archivos multimedia legib
 
 <p>~ $ yes | termux-setup-storage</p>
 <p>~ $ yes | pkg update && pkg upgrade</p>
-<p>~ $ pkg install php</p>
-<p>~ $ pkg install git</p>
+<p>~ $ yes | pkg install php</p>
+<p>~ $ yes | pkg install ffmpeg</p>
+<p>~ $ yes | pkg install git</p>
 <p>~ $ mkdir storage/download/URLMP3</p>
 </p>~ $ cd storage/downloads/URLMP3</p>
 <p>~/.../downloads/URLMP3 $ composer require norkunas/youtube-dl-php:dev-master</p>
