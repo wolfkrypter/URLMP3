@@ -31,7 +31,7 @@ Ejemplo/ruta de almacenamiento:
 
 <center><h3>Frase de gracia, devoción y fe:</h3></center>
 <center><p>'El Rey Jesucristo viene pronto'</p></center>
-<center><p>Mateo 24:25, Author: 魔鬼;</p></center>
+<center><p>Mateo 24:25, Author: Belial;</p></center>
 
 
 <p>-->Ruta de almacenamiento: /data/data/com.termux/files/home/storage/downloads/URLMP3</p>
